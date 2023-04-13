@@ -18,3 +18,5 @@ Rose quartz: #B2A3B5
 1. I changes the colors for the projects
 2. I added another link.
 3. I added another section how you can contact me
+4. Added photo
+
