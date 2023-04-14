@@ -19,5 +19,5 @@ Rose quartz: #B2A3B5
 2. I added another link.
 3. I added another section how you can contact me
 4. Added photo
-Github Pages: https://github.com/gayuk30/cmsc389T-web-template/deployments/activity_log?environment=github-pages
+Github Pages: https://gayuk30.github.io/cmsc389T-web-template/
 
