@@ -1,7 +1,6 @@
 name: Clean workflow
 on:
   workflow_dispatch:
-
 jobs:
   job_one:
     name: Clean
