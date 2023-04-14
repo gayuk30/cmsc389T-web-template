@@ -1,19 +1,22 @@
-name: update workflow
-on:
+name: deployment workflow
+on: 
   push:
     branches: [main]
 jobs:
   job_one:
-    name: Clone
+    name: Deploy
     runs-on: ubuntu-latest
     steps:
       - name: testing
         uses: appleboy/ssh-action@master
         with:
-          host: ${{ secrets.HOST }}
+          host: ${{ secrets.HOST }} 
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
-            cd /pub/
-            git pull
+              cd ~
+              cd ..
+              cd pub
+              cd cmsc389T-web-template
+              git pull
