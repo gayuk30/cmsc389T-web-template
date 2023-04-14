@@ -20,4 +20,5 @@ Rose quartz: #B2A3B5
 3. I added another section how you can contact me
 4. Added photo
 Github Pages: https://gayuk30.github.io/cmsc389T-web-template/
+Terpconnect: https://terpconnect.umd.edu/~gayuk/cmsc389T-web-template/
 
