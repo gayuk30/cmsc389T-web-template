@@ -22,3 +22,4 @@ jobs:
           script: |
             cd /pub/${{ secrets.USERNAME }}/cmsc389T-personal-website
             git pull
+            
